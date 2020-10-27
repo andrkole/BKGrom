@@ -1,3 +1,3 @@
 # BKGrom
-Web stranica za boksački klub Grom. <br \>
+Web stranica za boksački klub Grom. <br />
 Seminarski rad.
